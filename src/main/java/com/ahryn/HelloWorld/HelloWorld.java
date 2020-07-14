@@ -1,4 +1,4 @@
-package com.ahryn.HelloWorld;
+package com.ahryn.helloworld;
 
 public class HelloWorld {
     public static void main (String [] args){
